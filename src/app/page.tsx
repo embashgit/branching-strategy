@@ -7,6 +7,9 @@ export default function Home() {
      <h3>This is a Feature fix</h3>
      <h5>Added feature H5</h5>
      <h2>Some Other Features</h2>
+     <ul>
+      <li><a href="/about" >About Page</a></li>
+     </ul>
     </main>
   )
 }
